@@ -1,0 +1,47 @@
+exports[`test change class when it is hovered 1`] = `
+<a
+  className="normal"
+  href="#"
+  onMouseEnter={[Function]}
+  onMouseLeave={[Function]}>
+  Example website
+</a>
+`;
+
+exports[`test change class when it is hovered 2`] = `
+<a
+  className="hovered"
+  href="#"
+  onMouseEnter={[Function]}
+  onMouseLeave={[Function]}>
+  Example website
+</a>
+`;
+
+exports[`test change class when it is hovered 3`] = `
+<a
+  className="normal"
+  href="#"
+  onMouseEnter={[Function]}
+  onMouseLeave={[Function]}>
+  Example website
+</a>
+`;
+
+exports[`test render an anchor when no page is set 1`] = `
+<a
+  className="normal"
+  href="#"
+  onMouseEnter={[Function]}
+  onMouseLeave={[Function]} />
+`;
+
+exports[`test render successfully 1`] = `
+<a
+  className="normal"
+  href="#"
+  onMouseEnter={[Function]}
+  onMouseLeave={[Function]}>
+  Example website
+</a>
+`;
