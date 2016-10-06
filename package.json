@@ -1,0 +1,21 @@
+{
+  "name": "jest-sample",
+  "version": "1.0.0",
+  "description": "Sample code for using Jest testing framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "sample",
+    "jest"
+  ],
+  "author": "Raymond Zhu",
+  "license": "MIT",
+  "devDependencies": {
+    "jest-cli": "^16.0.1"
+  },
+  "jest": {
+    "testEnvironment": "node"
+  }
+}
