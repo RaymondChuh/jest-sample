@@ -15,10 +15,11 @@
   "devDependencies": {
     "enzyme": "^2.4.1",
     "jest-cli": "^16.0.1",
+    "jsdom": "^9.6.0",
     "react-addons-test-utils": "^15.3.2"
   },
   "jest": {
-    "testEnvironment": "node"
+    "verbose": true
   },
   "dependencies": {
     "babel": "^6.5.2",
