@@ -13,7 +13,9 @@
   "author": "Raymond Zhu",
   "license": "MIT",
   "devDependencies": {
-    "jest-cli": "^16.0.1"
+    "enzyme": "^2.4.1",
+    "jest-cli": "^16.0.1",
+    "react-addons-test-utils": "^15.3.2"
   },
   "jest": {
     "testEnvironment": "node"
