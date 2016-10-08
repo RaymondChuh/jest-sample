@@ -1,6 +1,8 @@
 // Copyright 2004-present Facebook. All Rights Reserved.
 
 import React from 'react';
+require('../style/default.css');
+
 
 const STATUS = {
   NORMAL: 'normal',

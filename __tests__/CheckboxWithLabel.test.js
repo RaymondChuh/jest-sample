@@ -1,7 +1,7 @@
 import React from 'react';
 import CheckboxWithLabel from '../src/CheckboxWithLabel';
 import {shallow, mount} from 'enzyme';
-
+require('../style/default.css');
 
 it('CheckboxWithLabel react component props', () => {
   const checkbox = shallow(<CheckboxWithLabel labelOn="On" labelOff="Off"></CheckboxWithLabel>)
